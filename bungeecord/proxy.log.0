@@ -1,0 +1,235 @@
+20:56:37 [INFO] Using mbed TLS based native cipher.
+20:56:37 [INFO] Using zlib based native compressor.
+20:56:37 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+20:56:37 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+20:56:37 [INFO] Epoll is working, utilising it!
+20:56:38 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+20:56:38 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+20:56:38 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+20:56:38 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+20:56:38 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+20:56:38 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+20:56:38 [INFO] Attempting to update plugin from null to ModuleVersion(build=1598, git=bda1605)
+20:56:38 [INFO] Attempting to Jenkins download module cmd_alert v1598
+20:56:42 [INFO] Download complete
+20:56:42 [INFO] Attempting to update plugin from null to ModuleVersion(build=1598, git=bda1605)
+20:56:42 [INFO] Attempting to Jenkins download module cmd_find v1598
+20:56:42 [INFO] Download complete
+20:56:42 [INFO] Attempting to update plugin from null to ModuleVersion(build=1598, git=bda1605)
+20:56:42 [INFO] Attempting to Jenkins download module cmd_list v1598
+20:56:42 [INFO] Download complete
+20:56:42 [INFO] Attempting to update plugin from null to ModuleVersion(build=1598, git=bda1605)
+20:56:42 [INFO] Attempting to Jenkins download module cmd_send v1598
+20:56:42 [INFO] Download complete
+20:56:42 [INFO] Attempting to update plugin from null to ModuleVersion(build=1598, git=bda1605)
+20:56:42 [INFO] Attempting to Jenkins download module cmd_server v1598
+20:56:42 [INFO] Download complete
+20:56:42 [INFO] Attempting to update plugin from null to ModuleVersion(build=1598, git=bda1605)
+20:56:42 [INFO] Attempting to Jenkins download module reconnect_yaml v1598
+20:56:42 [INFO] Download complete
+20:56:43 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:56:43 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:56:43 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:56:43 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:56:43 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:56:43 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:56:43 [WARNING] Forced host server pvp is not defined
+20:56:43 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:56:43 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:56:43 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:56:43 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:56:43 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:56:43 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:56:44 [INFO] Listening on /0.0.0.0:25577
+20:56:45 [SEVERE] [/172.18.0.1:43518] <-> InitialHandler - encountered exception: net.md_5.bungee.util.QuietException: Unexpected packet received during login process! 4554202f20485454502f312e310d0a48
+20:56:48 [INFO] Closing listener [id: 0x8dbae534, L:/0.0.0.0:25577]
+20:56:48 [INFO] Closing pending connections
+20:56:48 [INFO] Disconnecting 0 connections
+20:56:48 [INFO] Saving reconnect locations
+20:56:48 [INFO] Disabling plugins
+20:56:48 [INFO] Closing IO threads
+20:57:53 [INFO] Using mbed TLS based native cipher.
+20:57:53 [INFO] Using zlib based native compressor.
+20:57:53 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+20:57:54 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+20:57:54 [INFO] Epoll is working, utilising it!
+20:57:54 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+20:57:54 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+20:57:54 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+20:57:54 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+20:57:54 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+20:57:54 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+20:57:55 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:57:55 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:57:55 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:57:55 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:57:55 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:57:55 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:57:57 [WARNING] Forced host server pvp is not defined
+20:57:57 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:57:57 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:57:57 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:57:57 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:57:57 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:57:57 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:57:58 [INFO] Listening on /127.0.0.1:25577
+20:58:03 [INFO] [/127.0.0.1:50744] <-> InitialHandler has connected
+20:58:06 [INFO] [One_Socks] disconnected with: §cCould not connect to a default or fallback server, please try again later: java.net.UnknownHostException
+20:58:06 [INFO] [One_Socks] -> UpstreamBridge has disconnected
+20:58:11 [INFO] Closing listener [id: 0xd3c96f6e, L:/127.0.0.1:25577]
+20:58:11 [INFO] Closing pending connections
+20:58:11 [INFO] Disconnecting 0 connections
+20:58:12 [INFO] Saving reconnect locations
+20:58:12 [INFO] Disabling plugins
+20:58:12 [INFO] Closing IO threads
+20:58:46 [INFO] Using mbed TLS based native cipher.
+20:58:46 [INFO] Using zlib based native compressor.
+20:58:46 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+20:58:46 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+20:58:46 [INFO] Epoll is working, utilising it!
+20:58:46 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+20:58:46 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+20:58:46 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+20:58:46 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+20:58:46 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+20:58:46 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+20:58:47 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:58:47 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:58:47 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:58:47 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:58:47 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:58:47 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:58:47 [WARNING] Forced host server pvp is not defined
+20:58:47 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:58:47 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:58:47 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:58:47 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:58:47 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:58:47 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:58:48 [INFO] Listening on /127.0.0.1:25577
+20:58:54 [INFO] [/127.0.0.1:52972] <-> InitialHandler has connected
+20:58:58 [INFO] [One_Socks] disconnected with: §cCould not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
+20:58:58 [INFO] [One_Socks] -> UpstreamBridge has disconnected
+20:59:04 [INFO] [/127.0.0.1:52980] <-> InitialHandler has connected
+20:59:05 [INFO] [One_Socks] disconnected with: §cCould not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
+20:59:05 [INFO] [One_Socks] -> UpstreamBridge has disconnected
+20:59:10 [INFO] [/127.0.0.1:52992] <-> InitialHandler has connected
+20:59:12 [INFO] [One_Socks] disconnected with: §cCould not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
+20:59:12 [INFO] [One_Socks] -> UpstreamBridge has disconnected
+20:59:18 [INFO] [One_Socks,/127.0.0.1:53004] <-> InitialHandler has connected
+20:59:41 [INFO] [One_Socks,/127.0.0.1:54104] <-> InitialHandler has connected
+20:59:42 [INFO] [One_Socks] disconnected with: §cCould not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
+20:59:42 [INFO] [One_Socks] -> UpstreamBridge has disconnected
+20:59:48 [INFO] [/127.0.0.1:54110] <-> InitialHandler has connected
+20:59:49 [INFO] [One_Socks] disconnected with: §cCould not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
+20:59:49 [INFO] [One_Socks] -> UpstreamBridge has disconnected
+20:59:55 [INFO] [/127.0.0.1:54116] <-> InitialHandler has connected
+20:59:56 [INFO] [One_Socks] disconnected with: §cCould not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
+20:59:56 [INFO] [One_Socks] -> UpstreamBridge has disconnected
+21:01:03 [INFO] Closing listener [id: 0xca1cf9e6, L:/127.0.0.1:25577]
+21:01:03 [INFO] Closing pending connections
+21:01:03 [INFO] Disconnecting 0 connections
+21:01:03 [INFO] Saving reconnect locations
+21:01:03 [INFO] Disabling plugins
+21:01:03 [INFO] Closing IO threads
+21:01:45 [INFO] Using mbed TLS based native cipher.
+21:01:45 [INFO] Using zlib based native compressor.
+21:01:45 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+21:01:45 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+21:01:45 [INFO] Epoll is working, utilising it!
+21:01:45 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+21:01:45 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+21:01:45 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+21:01:45 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+21:01:45 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+21:01:45 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+21:01:46 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+21:01:46 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+21:01:46 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+21:01:46 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+21:01:46 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+21:01:46 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+21:01:46 [WARNING] Forced host server pvp is not defined
+21:01:46 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+21:01:46 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+21:01:46 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+21:01:46 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+21:01:46 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+21:01:46 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+21:01:46 [INFO] Listening on /127.0.0.1:25577
+21:02:23 [INFO] [/127.0.0.1:58578] <-> InitialHandler has connected
+21:02:26 [INFO] [One_Socks] disconnected with: §cCould not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
+21:02:26 [INFO] [One_Socks] -> UpstreamBridge has disconnected
+09:48:58 [INFO] Using mbed TLS based native cipher.
+09:48:58 [INFO] Using zlib based native compressor.
+09:48:58 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+09:48:58 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+09:48:58 [INFO] Epoll is working, utilising it!
+09:48:59 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+09:48:59 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+09:48:59 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+09:48:59 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+09:48:59 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+09:48:59 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+09:48:59 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+09:48:59 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+09:48:59 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+09:48:59 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+09:48:59 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+09:48:59 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+09:48:59 [WARNING] Forced host server pvp is not defined
+09:48:59 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+09:48:59 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+09:48:59 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+09:48:59 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+09:48:59 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+09:48:59 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+09:49:00 [INFO] Listening on /127.0.0.1:25577
+10:10:03 [INFO] Closing listener [id: 0xd0ff4cf2, L:/127.0.0.1:25577]
+10:10:03 [INFO] Closing pending connections
+10:10:03 [INFO] Disconnecting 0 connections
+10:10:03 [INFO] Saving reconnect locations
+10:10:03 [INFO] Disabling plugins
+10:10:03 [INFO] Closing IO threads
+10:10:05 [INFO] Thank you and goodbye
+10:10:54 [INFO] Using mbed TLS based native cipher.
+10:10:54 [INFO] Using zlib based native compressor.
+10:10:54 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+10:10:54 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+10:10:54 [INFO] Epoll is working, utilising it!
+10:10:55 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+10:10:55 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+10:10:55 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+10:10:55 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+10:10:55 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+10:10:55 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+10:10:55 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+10:10:55 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+10:10:55 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+10:10:55 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+10:10:55 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+10:10:55 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+10:10:55 [WARNING] Forced host server pvp is not defined
+10:10:56 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+10:10:56 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+10:10:56 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+10:10:56 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+10:10:56 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+10:10:56 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+10:10:56 [INFO] Listening on /127.0.0.1:25577
+12:04:21 [WARNING] [/127.0.0.1:52416] <-> InitialHandler - corrupted frame: Empty Packet!
+12:04:22 [WARNING] [/127.0.0.1:52420] <-> InitialHandler - corrupted frame: Empty Packet!
+12:04:22 [WARNING] [/127.0.0.1:52422] <-> InitialHandler - corrupted frame: Empty Packet!
+12:13:58 [INFO] [/127.0.0.1:55280] <-> InitialHandler has connected
+12:14:00 [INFO] [moistp1ckle] disconnected with: §cCould not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
+12:14:01 [INFO] [moistp1ckle] -> UpstreamBridge has disconnected
+12:14:04 [INFO] [/127.0.0.1:55306] <-> InitialHandler has connected
+12:14:05 [INFO] [moistp1ckle] disconnected with: §cCould not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
+12:14:05 [INFO] [moistp1ckle] -> UpstreamBridge has disconnected
+15:01:32 [INFO] Closing listener [id: 0xd5da0c92, L:/127.0.0.1:25577]
+15:01:32 [INFO] Closing pending connections
+15:01:32 [INFO] Disconnecting 0 connections
+15:01:33 [INFO] Saving reconnect locations
+15:01:33 [INFO] Disabling plugins
+15:01:33 [INFO] Closing IO threads
+15:01:34 [INFO] Thank you and goodbye
